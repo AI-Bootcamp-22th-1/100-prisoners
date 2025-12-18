@@ -2,7 +2,7 @@
 name: 100-Prisoners 시뮬레이션 구현 템플릿
 about: 100-Prisoners 과제를 팀원들이 각자 수행.
 title: "[Feature] 100-Prisoners 시뮬레이션 구현 (본인 유저명)"
-labels: ''
+labels: enhancement
 assignees: ''
 
 ---
